@@ -1,0 +1,23 @@
+{
+	"dogwater53": {
+		"passw": "a113",
+		"friends": [
+			"AncheerXX", "Shinypot8o"
+		],
+		"requests": [
+			"TryroT136"
+		],
+		"incoming": [
+			{
+				"from": "AncheerXX",
+				"delete": true,
+				"text": "ap"
+			},
+			{
+				"from": "AncheerXX",
+				"delete": true,
+				"text": "rn"
+			}
+		]
+	}
+}
